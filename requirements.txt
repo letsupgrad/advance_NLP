@@ -1,0 +1,16 @@
+streamlit
+pandas
+nltk
+pdfplumber
+python-docx
+requests
+beautifulsoup4
+wordcloud
+matplotlib
+spacy
+transformers
+langdetect
+googletrans==4.0.0-rc1
+openai-whisper
+gensim
+pyLDAvis
